@@ -1,0 +1,1 @@
+ This project uses a Convolutional Neural Network (CNN) to classify facial expressions as Happy or Sad using the FER2013 dataset. The model features convolutional layers, pooling, dropout, and batch normalization to improve accuracy and prevent overfitting, with visualizations, confusion matrix analysis, and real-time emotion classification.
